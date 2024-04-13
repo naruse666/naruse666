@@ -6,9 +6,21 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naruse666&size_weight=0.5&count_weight=0.5&langs_count=5&layout=compact&theme=merko" />
 </a>
 
+### 🛠 Languages and Tools
+<!-- see: https://github.com/devicons/devicon -->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40">
+</div>
+<br>
+
+### 🏆 Trophies
 <!-- setting: https://github.com/ryo-ma/github-profile-trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=naruse666&theme=onedark&no-bg=true&no-frame=true&column=-1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+### GitHub Streaks
 <!-- setting: https://github.com/DenverCoder1/github-readme-streak-stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=naruse666&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
