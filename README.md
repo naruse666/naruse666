@@ -1,6 +1,6 @@
 <!-- setting: https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naruse666&show=prs_merged,prs_merged_percentage&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naruse666&show=reviews,prs_merged,prs_merged_percentage&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naruse666&size_weight=0.5&count_weight=0.5&langs_count=5&layout=compact&theme=merko" />
